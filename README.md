@@ -24,7 +24,7 @@ A movie search web application developed with React. Includes movie lookup, deta
 
 🗣️ Languages
 
-Ukrainian — Native
+Ukrainian — Native, 
 English — B1
 
 📫 How to reach me:  
